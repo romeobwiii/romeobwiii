@@ -1,76 +1,70 @@
-## 👋 Hi, I’m Amantle Mpaekae — aka Mulax Prime
+<h1 align="center">✨ MULAX PRIME ✨</h1>
+<h3 align="center">Mythic Technologist • Cinematic Designer • Tribute Engineer</h3>
 
-### 🔮 Mythic Technologist | Cinematic Designer | Open-Source Contributor
-
-Founder of **Mulax Prime**, a digital movement blending poetic storytelling, cinematic UI/UX, and emotionally intelligent tech. I remix longing, legacy, and tribute into immersive web experiences — always iterating, always evolving.
-
-📍 Gaborone, Botswana  
-🎓 Gaborone Senior Secondary School (GSSS) — Science, Technology & Digital Innovation
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Turning+longing+into+code...;Remixing+emotion+into+design...;Building+MULAA+XMD+with+cinematic+impact..." alt="Typing SVG" />
+</p>
 
 ---
 
-### 🧠 Core Skills & Creative Practices
+## 🔮 About Me
+
+I’m **Amantle Mpaekae**, founder of **Mulax Prime** — a mythic digital movement blending cinematic UI/UX, poetic storytelling, and emotionally intelligent tech.  
+Every line of code is a tribute. Every layout, a legacy. Every app, a remix of longing into impact.
+
+📍 Gaborone, Botswana  
+🎓 GSSS — Science, Technology & Digital Innovation  
+🧠 GitHub: [@romeobwiii](https://github.com/romeobwiii)
+
+---
+
+## 🧠 Core Skills & Practices
 
 - ⚙️ Modular Web Development (HTML, CSS, JS, React, Python)  
 - 🎥 Cinematic UI/UX & Emotionally Resonant Design  
-- 🧬 AI Assistant Engineering & Bot Development  
+- 🤖 AI Assistant Engineering & Bot Logic  
 - 🌀 Tribute Modules & Mythic Layouts  
-- 📦 GitHub APIs, Open-Source Collaboration  
-- 🧭 Strategic Planning & Iterative Remixing  
-- 🎨 Anime-Inspired Visual Storytelling & Branding
+- 📦 GitHub APIs & Open-Source Collaboration  
+- 🎨 Anime-Inspired Branding & Visual Storytelling  
+- 🧭 Strategic Planning & Iterative Remixing
 
 ---
 
-### 🚀 Current Projects
+## 🚀 Featured Projects
 
-- 🔥 Launching **MULAA XMD** — a mythic tribute bot with cinematic impact  
-- 🧠 Building **mulaa-ai-core** — emotionally intelligent assistant logic  
-- 📺 Streaming UI for **PrimeMotion**  
-- 📚 Educational platform: **mulax-prime-code** (HTML/CSS/JS/Python/React)  
-- 🖼️ Tribute portfolio: **amazinglone** — honoring Lone’s mythic presence  
-- 🧾 Code/design showcase: **mulax-dossier**
-
----
-
-### 🌐 GitHub Presence
-
-**GitHub Handle**: [@romeobwiii](https://github.com/romeobwiii)  
-**Pinned Repos**:  
-- [MULAA-XMD](https://github.com/romeobwiii/MULAA-XMD)  
-- [mulaa-ai-core](https://github.com/romeobwiii/mulaa-ai-core)  
-- [PrimeMotion](https://github.com/romeobwiii/PrimeMotion)  
-- [amazinglone](https://github.com/romeobwiii/amazinglone)  
-- [mulax-prime-code](https://github.com/romeobwiii/mulax-prime-code)  
-- [mulax-dossier](https://github.com/romeobwiii/mulax-dossier)
-
----
-
-### 📫 Connect & Collaborate
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lone-baithei-a438a9196)  
-- 📧 baitheilone@gmail.com  
-- 🧠 Tribute inquiries: DM via GitHub or LinkedIn
+| Project         | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| [MULAA-XMD](https://github.com/romeobwiii/MULAA-XMD)         | Tribute bot with mythic flair and cinematic UI/UX                     |
+| [mulaa-ai-core](https://github.com/romeobwiii/mulaa-ai-core) | Emotionally intelligent assistant logic powering MULAA XMD            |
+| [PrimeMotion](https://github.com/romeobwiii/PrimeMotion)     | Streaming UI with cinematic transitions and modular layout            |
+| [amazinglone](https://github.com/romeobwiii/amazinglone)     | Tribute portfolio honoring Lone’s mythic presence                     |
+| [mulax-prime-code](https://github.com/romeobwiii/mulax-prime-code) | Educational site for HTML/CSS/JS/Python/React                         |
+| [mulax-dossier](https://github.com/romeobwiii/mulax-dossier) | Code/design showcase with cinematic storytelling                      |
 
 ---
 
 ## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contact Me
 
-![](https://github-readme-stats.vercel.app/api?username=romeobwiii&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=romeobwiii&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=romeobwiii&theme=radical&hide_border=false&layout=compact)
+- 📧 Email: **amantlempaekae@gmail.com**  
+- 🧠 Tribute inquiries: DM via [GitHub](https://github.com/romeobwiii)
 
 ---
+
+> “Every absence is a frequency. Every tribute is a remix. MULAX PRIME is the echo.”  
+> — Amantle Mpaekae
 
 <!-- Mythically remixed with GPRM ( https://gprm.itsvg.in ) -->
