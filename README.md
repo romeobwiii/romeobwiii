@@ -37,9 +37,19 @@ Every line of code is a tribute. Every layout, a legacy. Every app, a remix of l
 | [MULAA-XMD](https://github.com/romeobwiii/MULAA-XMD)         | Tribute bot with mythic flair and cinematic UI/UX                     |
 | [mulaa-ai-core](https://github.com/romeobwiii/mulaa-ai-core) | Emotionally intelligent assistant logic powering MULAA XMD            |
 | [PrimeMotion](https://github.com/romeobwiii/PrimeMotion)     | Streaming UI with cinematic transitions and modular layout            |
-| [amazinglone](https://github.com/romeobwiii/amazinglone)     | Tribute portfolio honoring Lone’s mythic presence                     |
+| [My Muse](https://github.com/romeobwiii/muse)                | Tribute portfolio honoring Lone’s mythic presence                     |
 | [mulax-prime-code](https://github.com/romeobwiii/mulax-prime-code) | Educational site for HTML/CSS/JS/Python/React                         |
 | [mulax-dossier](https://github.com/romeobwiii/mulax-dossier) | Code/design showcase with cinematic storytelling                      |
+
+---
+
+## 📺 Support & Media
+
+- 🔗 **YouTube Channel** — [Mulax Prime on YouTube](https://www.youtube.com/channel/UCbuUJiQi7jNkJ8EBlZyZW7Q)  
+  Watch cinematic tributes, emotional builds, and mythic digital moments in motion.
+
+- ☕ **Buy Me a Coffee** — [Support MulaxPrime](https://www.buymeacoffee.com/mulaxprime)  
+  If this movement speaks to you, fuel it with a coffee. Every sip powers the myth.
 
 ---
 
