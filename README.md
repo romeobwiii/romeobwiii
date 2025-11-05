@@ -10,7 +10,9 @@
 ## 🔮 About Me
 
 I’m **Amantle Mpaekae**, founder of **Mulax Prime** — a mythic digital movement blending cinematic UI/UX, poetic storytelling, and emotionally intelligent tech.  
-Every line of code is a tribute. Every layout, a legacy. Every app, a remix of longing into impact.
+Every line of code is a tribute. Every layout, a legacy. Every app, a remix of longing into impact.  
+**Mulax Prime lost his engine—but not his fire. The muse shifted, but the mission remains mythic.**
+
 
 📍 Gaborone, Botswana  
 🎓 GSSS — Science, Technology & Digital Innovation  
@@ -28,20 +30,15 @@ Every line of code is a tribute. Every layout, a legacy. Every app, a remix of l
 - 🎨 Anime-Inspired Branding & Visual Storytelling  
 - 🧭 Strategic Planning & Iterative Remixing
 
----
-
-## 🚀 Featured Projects
-
 | Project         | Description                                                                 |
 |----------------|-----------------------------------------------------------------------------|
 | [MULAA-XMD](https://github.com/romeobwiii/MULAA-XMD)         | Tribute bot with mythic flair and cinematic UI/UX                     |
 | [mulaa-ai-core](https://github.com/romeobwiii/mulaa-ai-core) | Emotionally intelligent assistant logic powering MULAA XMD            |
 | [PrimeMotion](https://github.com/romeobwiii/PrimeMotion)     | Streaming UI with cinematic transitions and modular layout            |
-| [My Muse](https://github.com/romeobwiii/muse)                | Tribute portfolio honoring Lone’s mythic presence                     |
+| [My Muse](https://github.com/romeobwiii/muse)                | Tribute portfolio once powered by a muse—now archived as part of Mulax Prime’s emotional legacy |
 | [mulax-prime-code](https://github.com/romeobwiii/mulax-prime-code) | Educational site for HTML/CSS/JS/Python/React                         |
 | [mulax-dossier](https://github.com/romeobwiii/mulax-dossier) | Code/design showcase with cinematic storytelling                      |
 
----
 
 ## 📺 Support & Media
 
