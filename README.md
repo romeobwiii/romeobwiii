@@ -45,7 +45,7 @@ Every line of code is a tribute. Every layout, a legacy. Every app, a remix of l
 - 🔗 **YouTube Channel** — [Mulax Prime on YouTube](https://www.youtube.com/channel/UCbuUJiQi7jNkJ8EBlZyZW7Q)  
   Watch cinematic tributes, emotional builds, and mythic digital moments in motion.
 
-- ☕ **Buy Me a Coffee** — [Support MulaxPrime](https://www.buymeacoffee.com/mulaxprime)  
+- ☕ **Buy Me a Coffee** — [Support MulaxPrime](https://buymeacoffee.com/mulaxprime)
   If this movement speaks to you, fuel it with a coffee. Every sip powers the myth.
 
 ---
