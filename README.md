@@ -1,8 +1,8 @@
 <h1 align="center">✨ MULAX PRIME ✨</h1>
-<h3 align="center">Mythic Technologist • Cinematic Designer • Tribute Engineer</h3>
+<h3 align="center">Mythic Technologist • Cinematic Designer • Tribute Engineer • Aspiring AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Turning+longing+into+code...;Remixing+emotion+into+design...;Building+MULAA+XMD+with+cinematic+impact..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Turning+longing+into+code...;Remixing+emotion+into+design...;Building+MULAA+XMD+with+cinematic+impact...;Aiming+to+engineer+AI+for+legacy..." alt="Typing SVG" />
 </p>
 
 ---
@@ -13,6 +13,8 @@ I’m **Amantle Mpaekae**, founder of **Mulax Prime** — a mythic digital movem
 Every line of code is a tribute. Every layout, a legacy. Every app, a remix of longing into impact.  
 **Mulax Prime lost his engine—but not his fire. The muse shifted, but the mission remains mythic.**
 
+Now, I am **aiming to become an AI engineer** — building **super cool legacy systems** that will help my nation and beyond.  
+AI is not just technology for me; it is a way to **engineer gratitude, resilience, and mythic impact** into digital monuments.
 
 📍 Gaborone, Botswana  
 🎓 GSSS — Science, Technology & Digital Innovation  
@@ -28,7 +30,8 @@ Every line of code is a tribute. Every layout, a legacy. Every app, a remix of l
 - 🌀 Tribute Modules & Mythic Layouts  
 - 📦 GitHub APIs & Open-Source Collaboration  
 - 🎨 Anime-Inspired Branding & Visual Storytelling  
-- 🧭 Strategic Planning & Iterative Remixing
+- 🧭 Strategic Planning & Iterative Remixing  
+- 🌐 **AI Engineering (aspiring)** — aiming to build national legacy projects powered by intelligence  
 
 | Project         | Description                                                                 |
 |----------------|-----------------------------------------------------------------------------|
@@ -39,13 +42,14 @@ Every line of code is a tribute. Every layout, a legacy. Every app, a remix of l
 | [mulax-prime-code](https://github.com/romeobwiii/mulax-prime-code) | Educational site for HTML/CSS/JS/Python/React                         |
 | [mulax-dossier](https://github.com/romeobwiii/mulax-dossier) | Code/design showcase with cinematic storytelling                      |
 
+---
 
 ## 📺 Support & Media
 
 - 🔗 **YouTube Channel** — [Mulax Prime on YouTube](https://www.youtube.com/channel/UCbuUJiQi7jNkJ8EBlZyZW7Q)  
   Watch cinematic tributes, emotional builds, and mythic digital moments in motion.
 
-- ☕ **Buy Me a Coffee** — [Support MulaxPrime](https://buymeacoffee.com/mulaxprime)
+- ☕ **Buy Me a Coffee** — [Support MulaxPrime](https://buymeacoffee.com/mulaxprime)  
   If this movement speaks to you, fuel it with a coffee. Every sip powers the myth.
 
 ---
@@ -83,7 +87,8 @@ Every line of code is a tribute. Every layout, a legacy. Every app, a remix of l
 
 ---
 
-> “Every absence is a frequency. Every tribute is a remix. MULAX PRIME is the echo.”  
+> “Every absence is a frequency. Every tribute is a remix. MULAX PRIME is the echo.  
+> Now, it evolves into intelligence — building legacy AI to help the nation.”  
 > — Amantle Mpaekae
 
 <!-- Mythically remixed with GPRM ( https://gprm.itsvg.in ) -->
