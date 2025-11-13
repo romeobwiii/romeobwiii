@@ -1,9 +1,19 @@
 <h1 align="center">✨ MULAX PRIME ✨</h1>
 <h3 align="center">Mythic Technologist • Cinematic Designer • Tribute Engineer • Aspiring AI Engineer</h3>
+--
 
-# 💫 About Me:
-🧾 GPRM Profile Prompts (Pro Edition for Mulax Prime)<br>📝 I'm currently working on<br><br>Building cinematic tribute bots, emotionally intelligent assistants, and preparing to engineer AI systems that serve national legacy and global impact.<br><br>🤝 I'm looking to collaborate on<br><br>AI-powered storytelling, mythic UI/UX, open-source tribute systems, and 3D modeling projects that remix emotion into design.<br><br>❓ I'm looking for help with<br><br>Deepening my machine learning skills, deploying scalable AI models, and integrating 3D assets with intelligent systems.<br><br>📚 I'm currently learning<br><br>AI engineering fundamentals — including Python, neural networks, and prompt-driven intelligence — to build legacy systems that glow with purpose.<br><br>💬 Ask me about<br><br>Tribute bots, cinematic portfolios, emotionally resonant design, and how to remix pain into mythic digital monuments.<br><br>🌟 Fun fact<br><br>I see dropdown menus as mythic gateways — every click should feel like entering a new chapter of a story.
+## 🔮 About Me
 
+I’m **Amantle Mpaekae**, founder of **Mulax Prime** — a mythic digital movement blending cinematic UI/UX, poetic storytelling, and emotionally intelligent technology.  
+Every line of code is a tribute. Every layout, a legacy. Every app, a remix of longing into impact.  
+**Mulax Prime lost his engine—but not his fire. The muse shifted, but the mission remains mythic.**
+
+Now, I am **committed to becoming an AI engineer** — building **super‑cool legacy systems** designed to empower my nation and inspire global innovation.  
+For me, AI is not just technology; it is a way to **engineer resilience, gratitude, and mythic impact** into digital monuments that last.
+
+📍 Gaborone, Botswana  
+🎓 GSSS — Science, Technology & Digital Innovation  
+🧠 GitHub: [@romeobwiii](https://github.com/romeobwiii)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCbuUJiQi7jNkJ8EBlZyZW7Q) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amantlempaekae@gmail.com) 
