@@ -1,6 +1,29 @@
+
 <h1 align="center">✨ MULAX PRIME ✨</h1>
 <h3 align="center">Mythic Technologist • Cinematic Designer • Tribute Engineer • Aspiring AI Engineer</h3>
---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+Mulax+Prime...;Where+code+feels+like+magic...;Where+AI+glows+with+emotion...;Where+every+project+is+a+tribute..." alt="Typing SVG" />
+</p>
+
+---
+
+## 🧁 Welcome to Mulax Prime!
+
+Hey there, explorer! 👾  
+You’ve just entered a **mythic digital playground** where code tells stories, bots have feelings, and every click opens a new chapter.  
+
+Whether you're a curious kid, a future coder, or a dreamer with big ideas — Mulax Prime is here to show you that **technology can be magical, emotional, and full of legacy**.  
+
+🎮 Build bots that talk like heroes.  
+🎨 Design pages that feel like cartoons.  
+🧠 Learn how AI can help your nation — and maybe even your friends.  
+
+This is not just a portfolio.  
+It’s a **cathedral of creativity**, powered by gratitude, emotion, and the dream of helping others through tech.  
+
+So grab your imagination, pick your favorite color, and let’s build something **super cool** together.
+
 
 ## 🔮 About Me
 
