@@ -20,6 +20,11 @@
 You’ve just entered a **mythic digital playground** where bots have feelings, layouts tell stories, and every click opens a new adventure.  
 
 Whether you're a curious kid, a future coder, or a dreamer with big ideas — **Mulax Prime** is here to show you that technology can be magical, emotional, and full of legacy.  
+ 
+We are proud to announce that our new business name is **MULAA COMPANY**.  
+Although the name has evolved, we are still in the **same mission flow** — building mythic systems, cinematic designs, and AI monuments that empower the nation and inspire the world.  
+
+The fire remains. The legacy continues. The mission is unchanged.
 
 ---
 
@@ -45,6 +50,12 @@ You’ll find:
 - 🎮 Fun bots to remix  
 - ✨ Mythic guides that feel like quests  
 - 💬 A community that believes in your glow
+
+---
+
+### 💡 Why MULAA COMPANY Exists
+MULAA COMPANY is more than a brand — it’s a movement.  
+Founded by **Amantle Mpaekae**, it blends cinematic design, poetic programming, and emotional intelligence to build systems that **glow with gratitude and serve with legacy**.  
 
 ---
 
