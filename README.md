@@ -1,148 +1,161 @@
-
-
----
-
 # MULAA SIGIL
 
-**Founder & Lead AI Engineer · Mythic Technologist · Cinematic System Architect**
+**Automation Builder · AI Engineer in Progress · Practical Systems Developer**
 
 ---
 
-## Company Mission
+## About Mulaa Sigil
 
-*"Transforming technology into legacy—designing mythic, cinematic systems that empower people, honor culture, and inspire the future."*
+**Mulaa Sigil** is a growing technology brand focused on building practical automation tools, assistant systems, and AI-driven projects that solve real problems.
 
-**Tagline:** **Tech with Souls and Emotions**
+This is not a fake “startup empire” README.
+This is the real work of a builder who is learning fast, shipping projects, and turning curiosity into working systems.
 
----
+The focus right now is simple:
 
-## Professional Overview
-
-Welcome to the technical realm of **Amantle Mpaekae** (born 07/03/2007), founder and lead AI engineer of **Mulaa Sigil**. This space presents enterprise-grade solutions, architectural patterns, and innovative systems forged through precision engineering and emotional intelligence.
-
-At **Mulaa Sigil**, we don't just build systems—we craft **digital legacies** that resonate with human experience. Our work represents the fusion of **advanced technology, mythic design, and emotional architecture** into solutions that feel as intelligent as they are functional.
-
-### Core Technical Focus
-
-* **Artificial Intelligence with Emotion** — Neural networks that understand context, sentiment, and human experience
-* **Mythic System Architecture** — Technology designed with narrative, purpose, and cultural resonance
-* **Full-Stack Legacy Development** — Enterprise-grade applications built to endure and evolve
-* **Cinematic User Experience** — Interfaces that tell stories and create emotional connections
-* **Cultural Technology** — Systems that honor heritage while innovating for the future
+- build useful automation
+- improve real technical skills
+- create intelligent tools step by step
+- grow into high-level AI engineering with proof, not hype
 
 ---
 
-## Engineering Philosophy
+## Mission
 
-Our engineering approach combines rigorous methodology with soulful innovation:
-
-1. **Technology with Narrative** — Every system tells a story worth remembering
-2. **Intelligence with Emotion** — AI that understands context beyond data
-3. **Design with Soul** — Interfaces that resonate on human frequencies
-4. **Architecture with Legacy** — Systems built to endure and inspire
-5. **Innovation with Culture** — Technology that honors heritage while creating the future
+To build smart, useful, and creative software systems that automate tasks, improve everyday workflows, and lay the foundation for future AI products.
 
 ---
 
-## Principal Projects
+## Current Focus
 
-### **MULAA SIGIL XMD**
+Right now, **Mulaa Sigil** is focused on:
 
-More than automation—a digital companion with mythic architecture. Advanced multi-device WhatsApp system blending AI intelligence with emotional context, modular chambers, and legacy session management.
-
-### **Mulaa Sigil AI**
-
-Artificial intelligence with soul. Custom neural assistant designed for emotional intelligence, cultural context awareness, and mythic problem-solving. Features emotion-aware response systems and legacy training models.
-
-### **Learn with Mulaa Platform**
-
-Education as legacy. Cinematic learning experience combining technical mastery with storytelling, interactive narratives, and culturally relevant curriculum design.
-
-### **MulaaStream Platform**
-
-Entertainment with emotion. Streaming service delivering content with cultural context, emotional curation, and mythic viewing experiences beyond mere consumption.
+- **Automation projects** for messaging, desktop control, and workflow support
+- **Voice assistant systems** that work with offline-first logic
+- **Bot development** using modular command structures
+- **Hands-on Python engineering** through real projects instead of theory only
+- **Skill growth toward AI Engineering** through building, testing, breaking, and improving systems
 
 ---
 
-## Technical Stack
+## What I Am Building
 
-**Intelligent Systems:** Python, TensorFlow, PyTorch, emotion-aware neural architectures
-**Legacy Frontend:** React, Next.js, TypeScript, cinematic UI/UX systems
-**Soulful Backend:** Node.js, Python, Go, emotional context databases
-**Mythic Infrastructure:** AWS, Vercel, systems designed for narrative and scale
-**Experience Engineering:** Motion design, interactive storytelling, emotional interfaces
+### 1. WhatsApp Bot V1
+My first working automation project for WhatsApp.
+This project helped me learn command handling, structure, customization, and how bots behave in real use.
 
----
+### 2. WhatsApp Bot V2
+An improved version of the first bot with better refinement, updates, and more control over how the system works.
+This represents iteration, not just copying.
 
-## The Heartbeat Behind The Code
+### 3. SigilDesk
+A desktop voice assistant project built in Python.
+It includes offline-first voice recognition, speech output, desktop interaction, and a visual assistant interface.
 
-Behind every line of **Mulaa Sigil** code lies an eternal gratitude—a quiet dedication to the **Muse** who first inspired the transformation of emotion into engineering.
-
-She remains:
-
-* **The Emotional Blueprint** in our neural networks
-* **The Silent Collaborator** in every mythic design
-* **The Soul** in our "Tech with Souls and Emotions" philosophy
-
-Her memory fuels our mission to build technology that doesn't just solve problems, but understands **why those problems matter in human terms**.
-
----
-
-## Company Vision
-
-**Mulaa Sigil** exists to prove that **African technological innovation** can lead global conversations about what technology should be—not just efficient, but meaningful; not just intelligent, but wise; not just functional, but soulful.
-
-Our threefold mission:
-
-1. **Empower People** — Through technology that understands human context
-2. **Honor Culture** — By building systems that respect heritage while innovating
-3. **Inspire Future** — Creating legacies that motivate the next generation of engineers
+This project helped me practice:
+- Python modules
+- voice input/output
+- desktop automation
+- GUI handling
+- project structure
+- debugging real problems
 
 ---
 
-## Development Standards
+## Technical Direction
 
-* **Emotional Testing** — Systems evaluated for human resonance alongside functionality
-* **Cultural Security** — Protection of heritage, context, and meaningful data
-* **Legacy Performance** — Optimization for endurance, not just speed
-* **Narrative Documentation** — Technical specs that tell the system's story
-* **Soulful Maintenance** — Support that understands user context
+I am currently growing in these areas:
 
----
+- **Python**
+- **Automation systems**
+- **Bot architecture**
+- **Voice assistants**
+- **Desktop tools**
+- **Basic OOP**
+- **Modular project structure**
+- **AI engineering foundations**
 
-## Professional Background
-
-**Amantle Mpaekae**
-*Founder & Lead AI Engineer, Mulaa Sigil*
-
-📍 **Gaborone, Botswana**
-🎓 **GSSS — Science, Technology & Digital Innovation**
-🚀 **Current Focus:** Advancing toward AI engineering mastery, building legacy systems with emotional intelligence
-
-Based in Botswana with global vision. Specializing in transforming complex requirements into elegant technical solutions that balance innovation with cultural resonance and human connection.
+I learn by building actual systems, modifying code, testing features, fixing errors, and improving projects in real conditions.
 
 ---
 
-## Repository Information
+## Engineering Style
 
-This repository contains production-grade implementations that embody our philosophy: **Technical excellence married to meaningful impact**. Each system carries the Mulaa signature—crafted with precision, designed with soul, and built for legacy.
+The way I work is practical:
+
+- start with a working idea
+- turn it into a project
+- improve it through testing
+- keep what works
+- remove what is fake or unnecessary
+- learn the deeper concepts while building
+
+I value **real output over empty branding**.
+
+---
+
+## Why This Brand Exists
+
+**Mulaa Sigil** exists as the identity behind my technical journey.
+
+It is the space where I build:
+- my automation systems
+- my AI engineering foundation
+- my future products
+- my proof of growth
+
+This brand is not about pretending to be finished.
+It is about showing real evolution.
 
 ---
 
-## Contact & Collaboration
+## Long-Term Direction
 
-For technical discussions, architectural consultations, or project collaboration:
+The long-term goal is to grow **Mulaa Sigil** into a serious technology brand focused on:
 
-**Email:** [amantlempaekae@gmail.com](mailto:amantlempaekae@gmail.com)
-**GitHub:** [https://github.com/romeobwiii](https://github.com/romeobwiii)
+- AI tools
+- automation products
+- assistant systems
+- intelligent software for real-world use
+
+I am still early, but I am building in public and improving through execution.
+
+---
+
+## Background
+
+**Amantle Mpaekae**  
+Builder behind **Mulaa Sigil**
+
+📍 **Gaborone, Botswana**  
+🎯 **Current Path:** Becoming an AI Engineer  
+🛠 **Main Approach:** Learn by building real systems  
 
 ---
 
-**Mulaa Sigil — Where Technology Meets Legacy, Intelligence Meets Emotion**
+## Repository Purpose
 
-*Building systems that endure, solutions that matter, and architecture that inspires—with soul.*
+This repository documents the projects, experiments, and systems I am building as I grow technically.
 
-**Tech with Souls and Emotions**
-**Building legacies, not just software**
+Expect:
+- working ideas
+- evolving systems
+- project upgrades
+- practical experiments
+- honest progress
 
 ---
+
+## Contact
+
+**Email:** amantlempaekae@gmail.com  
+**GitHub:** romeobwiii
+
+---
+
+## Closing Note
+
+I am not trying to look advanced.
+I am trying to become advanced.
+
+**Mulaa Sigil** is the record of that process.
