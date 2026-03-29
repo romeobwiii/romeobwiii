@@ -1,18 +1,34 @@
-<div align="center">
-
 ```
- ░▒▓██████████████▓▒░  ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░         ░▒▓██████▓▒░  ░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓██████▓▒░  
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓████████▓▒░    ░▒▓█▓▒░     
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░    ░▒▓█▓▒░     
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░    ░▒▓█▓▒░     
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░  ░▒▓██████▓▒░  ░▒▓████████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░    ░▒▓█▓▒░     
+# Mulax Prime
+
+Bot Developer from Gaborone, Botswana.
+Building real Python tools. Learning by shipping.
+
+## What I Build
+- Telegram Bot (Python) — YouTube search, TTS, AI chat
+- WhatsApp Bot (JavaScript) — multi-command automation
+- Deployment tutorials on YouTube
+
+## Tech
+- Primary: Python
+- Secondary: JavaScript (can read, not write)
+- Tools: VS Code, GitHub, Telegram API, yt-dlp, gTTS
+
+## Currently
+- [x] Built first Python Telegram bot from scratch
+- [x] Learned async functions, modular code, pip installs
+- [ ] Fix AI chat feature
+- [ ] Push Telegram bot to GitHub
+- [ ] 20 YouTube subscribers
+
+My 1K
+Become an AI Engineer building real-world tools and bots
+that solve real problems for real people. Solo. From Botswana.
+
+
+"Mulax always grows. Every effort goes into real projects."
+— Mulax Prime
 ```
-
-**`MULAX PRIME`** — AI Engineer in progress. Builder of real tools.  
-Not a student. Not a hobbyist. A builder with a target.
-
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Founder+of+Mulaa+Sigil;WhatsApp+%2F+Telegram+Bot+Architect;Deploying+AI+into+the+real+world;One+project+at+a+time.)](https://git.io/typing-svg)
