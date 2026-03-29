@@ -1,4 +1,4 @@
-```
+
 # Mulax Prime
 
 Bot Developer from Gaborone, Botswana.
@@ -19,11 +19,17 @@ Building real Python tools. Learning by shipping.
 - [x] Learned async functions, modular code, pip installs
 - [ ] Fix AI chat feature
 - [ ] Push Telegram bot to GitHub
-- [ ] 20 YouTube subscribers
+- [ ] 1K YouTube subscribers
 
-My 1K
+My Goal
 Become an AI Engineer building real-world tools and bots
 that solve real problems for real people. Solo. From Botswana.
+
+
+"Mulax always grows. Every effort goes into real projects."
+— Mulax Prime
+```
+
 
 
 "Mulax always grows. Every effort goes into real projects."
