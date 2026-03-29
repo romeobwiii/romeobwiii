@@ -10,7 +10,9 @@ Building real Python tools. Learning by shipping.
 - Deployment tutorials on YouTube
 
 ## Tech
-- Primary: Python
+- Primary: Python 
+- Python: Foundation — functions, async, APIs, bot development
+  
 - Secondary: JavaScript (can read, not write)
 - Tools: VS Code, GitHub, Telegram API, yt-dlp, gTTS
 
@@ -24,12 +26,6 @@ Building real Python tools. Learning by shipping.
 My Goal
 Become an AI Engineer building real-world tools and bots
 that solve real problems for real people. Solo. From Botswana.
-
-
-"Mulax always grows. Every effort goes into real projects."
-— Mulax Prime
-```
-
 
 
 "Mulax always grows. Every effort goes into real projects."
