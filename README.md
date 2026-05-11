@@ -1,4 +1,4 @@
-# Mulax Prime
+MyMulax Prime
 
 **Python Bot Developer & AI Engineer in Training**
 Building real AI tools from Gaborone, Botswana. Learning by shipping.
@@ -61,13 +61,4 @@ that solve real problems for real people. Solo. From Botswana.
 > *"Mulax always grows. Every effort goes into real projects."*
 > — Mulax Prime
 
-My Goal
-Become an AI Engineer building real-world tools and bots
-that solve real problems for real people. Solo. From Botswana.
-
-
-"Mulax always grows. Every effort goes into real projects."
-— Mulax Prime
-```
----
 
